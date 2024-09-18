@@ -5,16 +5,22 @@ The JS Drum Kit is a simple web-based drum kit project that lets users play drum
 Interactive Keyboard Drumming: Press keys (A, S, D, F, G, H, J, K, L) to trigger different drum sounds.
 Real-Time Visual Feedback: Keys highlight when pressed and transition back smoothly.
 Preloaded Sounds: Includes classic drum kit sounds like snare, kick, and hi-hat.
+
+
 🛠️ Installation
 Clone the repository:
-bash
+``bash
 Skopiuj kod
 git clone https://github.com/your-username/js-drum-kit.git
+``
 Navigate to the project directory:
-bash
+``bash
 Skopiuj kod
 cd js-drum-kit
+``
 Open index.html in your browser to start playing!
+
+
 🎮 How to Use
 Press the following keys on your keyboard to play the corresponding sounds:
 A: Clap
