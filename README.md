@@ -12,13 +12,14 @@ The **JS Drum Kit** is a simple web-based drum kit project that lets users play 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/js-drum-kit.git
-   ``
+   
 
 2. Navigate to the project directory:
-``bash
+
 Skopiuj kod
+```bash
 cd js-drum-kit
-``
+```
 Open index.html in your browser to start playing!
 
 
