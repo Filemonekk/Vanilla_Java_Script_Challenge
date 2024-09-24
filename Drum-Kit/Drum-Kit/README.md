@@ -3,6 +3,9 @@
 ## 📋 Project Description
 The **JS Drum Kit** is a simple web-based drum kit project that lets users play drum sounds by pressing specific keys on their keyboard. Each key corresponds to a sound (e.g., snare, kick, hi-hat), allowing users to create rhythm patterns directly in their browser.
 
+## 🎮 Demo
+You can see the app in action here: [Drum Kit](https://filemonekk.github.io/30_Days_JS_Challenge/Drum-Kit/Drum-Kit)
+
 ## 🚀 Features
 - **Interactive Keyboard Drumming**: Press keys (A, S, D, F, G, H, J, K, L) to trigger different drum sounds.
 - **Real-Time Visual Feedback**: Keys highlight when pressed and transition back smoothly.
